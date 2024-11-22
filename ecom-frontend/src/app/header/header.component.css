@@ -1,0 +1,61 @@
+.space-buttons {
+    flex: 1 1 auto;
+}
+
+.logo-image {
+    width: 40px;
+    /* Adjust size as needed */
+    height: auto;
+    margin-right: 10px;
+    /* Space between logo and app name */
+    vertical-align: middle;
+}
+
+.app-name {
+    font-weight: bold;
+}
+
+.space-buttons {
+    flex: 1 1 auto;
+}
+
+.app-name {
+    color: #2196F3;
+    /* Blue color */
+    font-weight: bold;
+    /* Optional: makes the text bold */
+}
+
+.custom-button {
+    background-color: #2196F3;
+    color: white;
+    margin-right: 10px;
+    /* align-items: center; */
+}
+
+.custom-button1 {
+    background-color: #2196F3;
+    color: white;
+    margin-right: 10px;
+    align-items: center;
+}
+
+.custom-toolbar {
+    background-color: #cfe8fc;
+    /* justify-content: center; */
+}
+
+.custom-toolbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* You can adjust values to customize the shadow */
+}
+
+.button-container {
+    display: flex;
+    gap: 15px;
+    /* Controls the gap between buttons */
+    justify-content: center;
+    /* Center the buttons horizontally */
+    flex-grow: 1;
+    /* Allows the container to grow and center buttons */
+}

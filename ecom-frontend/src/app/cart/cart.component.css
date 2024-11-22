@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+}
+
+table td th {
+    padding: 10px;
+}
+
+.custom-button {
+    background-color: #2196F3;
+    color: white;
+    /* margin-right: center; */
+    /* align-items: center; */
+    justify-items: center;
+}
